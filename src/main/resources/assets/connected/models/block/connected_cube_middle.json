@@ -1,0 +1,7 @@
+{
+    "__comment": "Model for when all sides are connected.",
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "connected:blocks/connected_cube/connected_cube4C"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "__comment": "Model for when three adjacent sides are connected.",
+	"parent": "block/cube",
+    "textures": {
+		"particle": "connected:blocks/connected_cube/connected_cube0C",
+        "down": "connected:blocks/connected_cube/connected_cube2C_ue",
+		"up": "connected:blocks/connected_cube/connected_cube4C",
+		"north": "connected:blocks/connected_cube/connected_cube2C_uw",
+		"south": "connected:blocks/connected_cube/connected_cube4C",
+		"west": "connected:blocks/connected_cube/connected_cube2C_ue",
+		"east": "connected:blocks/connected_cube/connected_cube4C"
+    }
+}
